@@ -1,0 +1,25 @@
+{
+  "name": "tododemo",
+  "version": "0.0.1",
+  "description": "lab for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachun8051/tododemo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "kachun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kachun8051/tododemo/issues"
+  },
+  "homepage": "https://github.com/kachun8051/tododemo#readme",
+  "dependencies": {
+    "csprng": "^0.1.2"
+  }
+}
